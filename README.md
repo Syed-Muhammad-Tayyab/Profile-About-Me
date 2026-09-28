@@ -2,7 +2,7 @@
 <h3 align="center">BSCS (Information Security) Student | Red Team Intern @ NASTP | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Syed-Muhammad-Tayyab&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  
 </p>
 
 ---
