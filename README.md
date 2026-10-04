@@ -151,9 +151,9 @@ I'm **Syed Muhammad Tayyab**, a **Full-Stack Developer & Security-Minded Enginee
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Syed-Muhammad-Tayyab/Syed-Muhammad-Tayyab/main/assets/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Syed-Muhammad-Tayyab/Syed-Muhammad-Tayyab/main/assets/snake.svg">
-    <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/Syed-Muhammad-Tayyab/Syed-Muhammad-Tayyab/main/assets/snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Syed-Muhammad-Tayyab/Profile-About-Me/blob/main/assets/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="http://github.com/Syed-Muhammad-Tayyab/Profile-About-Me/blob/main/assets/snake.svg">
+    <img width="100%" alt="Contribution snake" src="https://github.com/Syed-Muhammad-Tayyab/Profile-About-Me/blob/main/assets/snake-dark.svg">
   </picture>
 </div>
 
