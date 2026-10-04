@@ -43,7 +43,7 @@ I'm **Syed Muhammad Tayyab**, a **Full-Stack Developer & Security-Minded Enginee
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/Syed-Muhammad-Tayyab/Syed-Muhammad-Tayyab/main/assets/divider.svg"/>
+<img width="100%" src="https://github.com/Syed-Muhammad-Tayyab/Profile-About-Me/blob/main/assets/divider.svg"/>
 
 ## 🌌 Core Domains — Live Orbit
 
@@ -183,7 +183,7 @@ Looking for a motivated developer with a security mindset? Need a custom project
 
 > ***"Secure by design. Built to ship."***
 >
-> **— Syed Muhammad Tayyab, BSCS Information Security @ FUUAST
+>  Syed Muhammad Tayyab, BS Computer Science  @ FUUAST | Domain Information Security & Development
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7e15f7,100:0d1117&height=140&section=footer"/>
 
