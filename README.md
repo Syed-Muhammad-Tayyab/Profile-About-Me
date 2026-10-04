@@ -173,7 +173,7 @@ Looking for a motivated developer with a security mindset? Need a custom project
 
 <div align="center">
 
-**🐙 GitHub →** [Syed-Muhammad-Tayyab](https://github.com/Syed-Muhammad-Tayyab) &nbsp;|&nbsp; **💼 LinkedIn →** [Connect](https://www.linkedin.com/in/syed-muhammad-tayyab-932a503a9/) &nbsp;|&nbsp; **📧 Email →** [syedmuhammadtayyab456@gmail.com](mailto:syedmuhammadtayyab456@gmail.com) **💻 Portfolio →** [Portfolio](https://syed-m-tayyab-portfolio.netlify.app/)
+**🐙 GitHub →** [Syed-Muhammad-Tayyab](https://github.com/Syed-Muhammad-Tayyab) &nbsp;|&nbsp; **💼 LinkedIn →** [Connect](https://www.linkedin.com/in/syed-muhammad-tayyab-932a503a9/) &nbsp;|&nbsp; **📧 Email →** [syedmuhammadtayyab456@gmail.com](mailto:syedmuhammadtayyab456@gmail.com) &nbsp;|&nbsp; **💻 Portfolio →** [Portfolio](https://syed-m-tayyab-portfolio.netlify.app/)
 
 </div>
 
