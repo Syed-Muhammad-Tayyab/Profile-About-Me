@@ -46,7 +46,6 @@ I'm **Syed Muhammad Tayyab**, a **Full-Stack Developer & Security-Minded Enginee
 <img width="100%" src="https://raw.githubusercontent.com/Syed-Muhammad-Tayyab/Syed-Muhammad-Tayyab/main/assets/divider.svg"/>
 
 ## 🌌 Core Domains — Live Orbit
-## 🌌 Core Domains — Live Orbit
 
 <div align="center">
 <img width="48%" src="https://raw.githubusercontent.com/farzeen-ali/farzeen-ali/main/assets/skills-orbit.svg?v=3" alt="Farzeen Ali core engineering domains orbiting animation"/>
@@ -63,7 +62,7 @@ I'm **Syed Muhammad Tayyab**, a **Full-Stack Developer & Security-Minded Enginee
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/farzeen-ali/farzeen-ali/main/assets/divider.svg"/>
+<img width="100%" src="https://raw.githubusercontent.com/Syed uhaad Tayyab/Syed Muhammad Tayyab/main/assets/divider.svg"/>
 
 
 <div align="center">
@@ -143,6 +142,7 @@ I'm **Syed Muhammad Tayyab**, a **Full-Stack Developer & Security-Minded Enginee
 
 | Certification | Issuer | Year |
 | --- | --- | --- |
+| 🛡️ Cyber Security Internship | NASTP | 2026 |
 | 🛡️ Cyber Security Consulting Simulation | PwC via Forage | 2026 |
 | 🧠 AI for Business Professionals | HP LIFE | 2026 |
 | 🔐 Intro to Cybersecurity Awareness | HP LIFE | 2026 |
@@ -192,7 +192,7 @@ Looking for a motivated developer with a security mindset? Need a custom project
 
 <div align="center">
 
-**🐙 GitHub →** [Syed-Muhammad-Tayyab](https://github.com/Syed-Muhammad-Tayyab) &nbsp;|&nbsp; **💼 LinkedIn →** [Connect](https://www.linkedin.com/in/YOUR-LINKEDIN) &nbsp;|&nbsp; **📧 Email →** [syedmuhammadtayyab456@gmail.com](mailto:syedmuhammadtayyab456@gmail.com)
+**🐙 GitHub →** [Syed-Muhammad-Tayyab](https://github.com/Syed-Muhammad-Tayyab) &nbsp;|&nbsp; **💼 LinkedIn →** [Connect](https://www.linkedin.com/in/syed-muhammad-tayyab-932a503a9?utm_source=share_via&utm_content=profile&utm_medium=member_android) &nbsp;|&nbsp; **📧 Email →** [syedmuhammadtayyab456@gmail.com](mailto:syedmuhammadtayyab456@gmail.com)
 
 </div>
 
