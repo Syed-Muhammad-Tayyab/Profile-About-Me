@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Syed-Muhammad-Tayyab/Syed-Muhammad-Tayyab/main/assets/hero-banner.svg" alt="Syed Muhammad Tayyab — Full-Stack Developer & Security-Minded Engineer"/>
+<img width="100%" src="" alt="Syed Muhammad Tayyab — Full-Stack Developer & Security-Minded Engineer"/>
 
 <br/>
 
