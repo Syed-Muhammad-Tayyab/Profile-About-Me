@@ -122,7 +122,7 @@ If you're a startup, agency or team looking for a motivated developer with a sec
 - 🛡️ **Audit** — Entry-level red team / pentesting support and password auditing
 - 🎨 **Design** — Responsive, modern UI for brands, schools and hotels
 
-**🐙 GitHub →** [Syed-Muhammad-Tayyab](https://github.com/Syed-Muhammad-Tayyab) | **💼 LinkedIn →** [Connect](https://www.linkedin.com/in/YOUR-LINKEDIN) | **📧 Email →** your-email@gmail.com
+**🐙 GitHub →** [Syed-Muhammad-Tayyab](https://github.com/Syed-Muhammad-Tayyab) | **💼 LinkedIn →** [Connect](https://www.linkedin.com/in/syed-muhammad-tayyab-932a503a9?utm_source=share_via&utm_content=profile&utm_medium=member_android) | **📧 Email →** your-email@gmail.com
 
 > ***"Secure by design. Built to ship."***
 >
