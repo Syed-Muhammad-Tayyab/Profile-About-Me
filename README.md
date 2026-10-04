@@ -46,6 +46,25 @@ I'm **Syed Muhammad Tayyab**, a **Full-Stack Developer & Security-Minded Enginee
 <img width="100%" src="https://raw.githubusercontent.com/Syed-Muhammad-Tayyab/Syed-Muhammad-Tayyab/main/assets/divider.svg"/>
 
 ## 🌌 Core Domains — Live Orbit
+## 🌌 Core Domains — Live Orbit
+
+<div align="center">
+<img width="48%" src="https://raw.githubusercontent.com/farzeen-ali/farzeen-ali/main/assets/skills-orbit.svg?v=3" alt="Farzeen Ali core engineering domains orbiting animation"/>
+</div>
+
+<table>
+<tr><th align="left">Capability</th><th align="left">Tactical Execution</th></tr>
+<tr><td>💻&nbsp;<b>Full-Stack &amp; Mobile</b></td><td>High-throughput web &amp; cross-platform ecosystems — Next.js, React Native, NestJS</td></tr>
+<tr><td>⚙️&nbsp;<b>DevSecOps &amp; Cloud</b></td><td>Zero-Trust cloud configurations on AWS, Azure, GCP via declarative IaC &amp; CI/CD</td></tr>
+<tr><td>🔒&nbsp;<b>Cybersecurity &amp; Pentesting</b></td><td>Offensive audits, vulnerability management, SIEM/SOC ops, and system hardening</td></tr>
+<tr><td>🤖&nbsp;<b>AI Agentic Automation</b></td><td>Production LLM orchestration, RAG pipelines, n8n workflows, self-healing agents</td></tr>
+<tr><td>⛓️&nbsp;<b>Blockchain Engineering</b></td><td>Smart contract development &amp; Solidity-based decentralized systems</td></tr>
+</table>
+
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/farzeen-ali/farzeen-ali/main/assets/divider.svg"/>
+
 
 <div align="center">
 <img width="48%" src="https://raw.githubusercontent.com/Syed-Muhammad-Tayyab/Syed-Muhammad-Tayyab/main/assets/skills-orbit.svg?v=2" alt="Syed core domains orbiting animation"/>
