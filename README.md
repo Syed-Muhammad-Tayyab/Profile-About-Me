@@ -6,7 +6,6 @@
 -->
 
 <div align="center">
-<!--
 < width="100%" src="https://raw.githubusercontent.com/Syed-Muhammad-Tayyab/Syed-Muhammad-Tayyab/main/assets/hero-banner.svg" alt="Syed Muhammad Tayyab — Full-Stack Developer & Security-Minded Engineer"/>
 
 <br/>
