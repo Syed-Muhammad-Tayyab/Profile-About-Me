@@ -6,8 +6,8 @@
 -->
 
 <div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/Syed-Muhammad-Tayyab/Syed-Muhammad-Tayyab/main/assets/hero-banner.svg" alt="Syed Muhammad Tayyab — Full-Stack Developer & Security-Minded Engineer"/>
+<!--
+< width="100%" src="https://raw.githubusercontent.com/Syed-Muhammad-Tayyab/Syed-Muhammad-Tayyab/main/assets/hero-banner.svg" alt="Syed Muhammad Tayyab — Full-Stack Developer & Security-Minded Engineer"/>
 
 <br/>
 
@@ -21,9 +21,9 @@
 </div>
 
 <br/>
-
+<!--
 <img width="100%" src="https://raw.githubusercontent.com/Syed-Muhammad-Tayyab/Syed-Muhammad-Tayyab/main/assets/divider.svg"/>
-
+-->
 ## 👨‍💻 Deployment Profile
 
 > **"Learn the attack. Build the defence. Ship the product."**
@@ -40,9 +40,9 @@ I'm **Syed Muhammad Tayyab**, a **Full-Stack Developer & Security-Minded Enginee
 </table>
 
 <br/>
-
+<!--
 <img width="100%" src="https://raw.githubusercontent.com/Syed-Muhammad-Tayyab/Syed-Muhammad-Tayyab/main/assets/divider.svg"/>
-
+-->
 ## 🌌 Core Domains — Live Orbit
 
 <div align="center">
