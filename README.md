@@ -62,7 +62,7 @@ I'm **Syed Muhammad Tayyab**, a **Full-Stack Developer & Security-Minded Enginee
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/Syed-Muhammad-Tayyab/Syed-Muhammad-Tayyab/main/assets/divider.svg"/>
+<img width="100%" src="https://github.com/Syed-Muhammad-Tayyab/Profile-About-Me/blob/main/assets/divider.svg"/>
 
 ## 💻 Live Terminal Session
 
