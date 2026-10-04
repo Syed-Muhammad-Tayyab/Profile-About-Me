@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img width="100%" src="" alt="Syed Muhammad Tayyab — Full-Stack Developer & Security-Minded Engineer"/>
+<img width="100%" src="https://github.com/Syed-Muhammad-Tayyab/Profile-About-Me/blob/main/assets/hero-banner.svg" alt="Syed Muhammad Tayyab — Full-Stack Developer & Security-Minded Engineer"/>
 
 <br/>
 
@@ -48,7 +48,7 @@ I'm **Syed Muhammad Tayyab**, a **Full-Stack Developer & Security-Minded Enginee
 ## 🌌 Core Domains — Live Orbit
 
 <div align="center">
-<img width="48%" src="https://raw.githubusercontent.com/Syed-Muhammad-Tayyab/Syed-Muhammad-Tayyab/main/assets/skills-orbit.svg?v=2" alt="Syed core domains orbiting animation"/>
+<img width="48%" src="https://github.com/Syed-Muhammad-Tayyab/Profile-About-Me/blob/main/assets/skills-orbit.svg" alt="Syed core domains orbiting animation"/>
 </div>
 
 <table>
@@ -67,7 +67,7 @@ I'm **Syed Muhammad Tayyab**, a **Full-Stack Developer & Security-Minded Enginee
 ## 💻 Live Terminal Session
 
 <div align="center">
-<img width="85%" src="https://raw.githubusercontent.com/Syed-Muhammad-Tayyab/Syed-Muhammad-Tayyab/main/assets/terminal-boot.svg" alt="Syed animated terminal"/>
+<img width="85%" src="[https://raw.githubusercontent.com/Syed-Muhammad-Tayyab/Syed-Muhammad-Tayyab/main/assets/terminal-boot.svg](https://github.com/Syed-Muhammad-Tayyab/Profile-About-Me/blob/main/assets/terminal-boot.svg)" alt="Syed animated terminal"/>
 </div>
 
 <br/>
@@ -118,7 +118,7 @@ I'm **Syed Muhammad Tayyab**, a **Full-Stack Developer & Security-Minded Enginee
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/Syed-Muhammad-Tayyab/Syed-Muhammad-Tayyab/main/assets/divider.svg"/>
+<img width="100%" src="https://github.com/Syed-Muhammad-Tayyab/Profile-About-Me/blob/main/assets/divider.svg"/>
 
 ## 🏅 Certifications
 
@@ -132,7 +132,7 @@ I'm **Syed Muhammad Tayyab**, a **Full-Stack Developer & Security-Minded Enginee
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/Syed-Muhammad-Tayyab/Syed-Muhammad-Tayyab/main/assets/divider.svg"/>
+<img width="100%" src="https://github.com/Syed-Muhammad-Tayyab/Profile-About-Me/blob/main/assets/divider.svg"/>
 
 ## ⚡ Performance Matrix & Live Metrics
 
@@ -160,7 +160,7 @@ I'm **Syed Muhammad Tayyab**, a **Full-Stack Developer & Security-Minded Enginee
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/Syed-Muhammad-Tayyab/Syed-Muhammad-Tayyab/main/assets/divider.svg"/>
+<img width="100%" src="https://github.com/Syed-Muhammad-Tayyab/Profile-About-Me/blob/main/assets/divider.svg"/>
 
 ## 🤝 Strategic Collaborations
 
@@ -183,7 +183,7 @@ Looking for a motivated developer with a security mindset? Need a custom project
 
 > ***"Secure by design. Built to ship."***
 >
-> **— Syed Muhammad Tayyab, BSCS Information Security @ FUUAST**
+> **— Syed Muhammad Tayyab, BSCS Information Security @ FUUAST
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7e15f7,100:0d1117&height=140&section=footer"/>
 
