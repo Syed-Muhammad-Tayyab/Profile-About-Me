@@ -124,6 +124,7 @@ I'm **Syed Muhammad Tayyab**, a **Full-Stack Developer & Security-Minded Enginee
 
 | Certification | Issuer | Year |
 | --- | --- | --- |
+| 🛡️ Cyber Security Internship | NASTP | 2026 |
 | 🛡️ Cyber Security Consulting Simulation | PwC via Forage | 2026 |
 | 🧠 AI for Business Professionals | HP LIFE | 2026 |
 | 🔐 Intro to Cybersecurity Awareness | HP LIFE | 2026 |
