@@ -36,8 +36,6 @@ I'm **Syed Muhammad Tayyab**, a **Full-Stack Developer & Security-Minded Enginee
 <tr><td>💼&nbsp;<b>Experience</b></td><td>Web Dev Intern (MERN) @ <b>Adivantech</b> · Cybersecurity Intern (Red Team) @ <b>NASTP</b></td></tr>
 <tr><td>🏗️&nbsp;<b>What I do</b></td><td>Full-stack web apps, school/college platforms, business sites, security tooling</td></tr>
 <tr><td>🛡️&nbsp;<b>Security</b></td><td>Wazuh SIEM on Kali Linux · pen tests on OWASP Juice Shop with Burp Suite &amp; Aircrack-ng</td></tr>
-<tr><td>🏛️&nbsp;<b>Leadership</b></td><td>Leadership role in the <b>Saraiki Students Federation (SSF)</b>, FUUAST</td></tr>
-<tr><td>📚&nbsp;<b>Exam prep</b></td><td><b>CSS 2027</b> — Central Superior Services</td></tr>
 <tr><td>🔎&nbsp;<b>Currently</b></td><td>Open to <b>web development &amp; full-stack</b> roles · Exploring cybersecurity &amp; advanced AI tools</td></tr>
 </table>
 
@@ -48,7 +46,7 @@ I'm **Syed Muhammad Tayyab**, a **Full-Stack Developer & Security-Minded Enginee
 ## 🌌 Core Domains — Live Orbit
 
 <div align="center">
-<img width="48%" src="https://raw.githubusercontent.com/farzeen-ali/farzeen-ali/main/assets/skills-orbit.svg?v=3" alt="Farzeen Ali core engineering domains orbiting animation"/>
+<img width="48%" src="https://raw.githubusercontent.com/Syed-Muhammad-Tayyab/Syed-Muhammad-Tayyab/main/assets/skills-orbit.svg?v=3" alt="Syed-Muhammad-Tayyab core engineering domains orbiting animation"/>
 </div>
 
 <table>
