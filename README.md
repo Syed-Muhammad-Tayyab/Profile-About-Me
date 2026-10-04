@@ -67,7 +67,7 @@ I'm **Syed Muhammad Tayyab**, a **Full-Stack Developer & Security-Minded Enginee
 ## 💻 Live Terminal Session
 
 <div align="center">
-<img width="85%" src="[https://raw.githubusercontent.com/Syed-Muhammad-Tayyab/Syed-Muhammad-Tayyab/main/assets/terminal-boot.svg](https://github.com/Syed-Muhammad-Tayyab/Profile-About-Me/blob/main/assets/terminal-boot.svg)" alt="Syed animated terminal"/>
+<img width="85%" src="https://github.com/Syed-Muhammad-Tayyab/Profile-About-Me/blob/main/assets/terminal-boot.svg" alt="Syed animated terminal"/>
 </div>
 
 <br/>
