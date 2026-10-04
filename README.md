@@ -135,8 +135,6 @@ I'm **Syed Muhammad Tayyab**, a **Full-Stack Developer & Security-Minded Enginee
 <img width="100%" src="https://github.com/Syed-Muhammad-Tayyab/Profile-About-Me/blob/main/assets/divider.svg"/>
 
 ## ⚡ Performance Matrix & Live Metrics
-
-
 <div align="center">
 
 <br/>
