@@ -143,9 +143,9 @@ I'm **Syed Muhammad Tayyab**, a **Full-Stack Developer & Security-Minded Enginee
 <img width="85%" src="https://streak-stats.demolab.com/?user=Syed-Muhammad-Tayyab&theme=midnight-purple&hide_border=true&background=0d1117&stroke=7e15f7&ring=7e15f7&fire=ffffff&currStreakLabel=7e15f7"/>
 
 <br/><br/>
-
+<!--
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Syed-Muhammad-Tayyab&bg_color=0D0221&color=b347ff&line=7e15f7&point=ff6ef7&area=true&hide_border=true&area_color=2d0a5c"/>
-
+-->
 <br/><br/>
 
 </div>
